@@ -1,0 +1,44 @@
+body{
+  background-color: #89edd2;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  color: #a53e33;
+}
+
+h2{
+  text-align: center;
+  font-size: 32px;
+  color:orange;
+}
+
+p{
+  color:skyblue;
+  text-indent: 70px;
+  font-size: 24px;
+}
+
+div{
+  background-color: black;
+  width:50%;
+  height:20%;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+.one{
+  float:left
+}
+
+.two{
+  clear:left;
+  float:right;
+}
+
+.three{
+
+  clear:right;
+  float:left;
+}
